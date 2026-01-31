@@ -19,7 +19,7 @@ body {
 .logo {
   width: 48vw;
   height: 50vh;
-
+  opacity:0.5;
 }
 
 header h3 {
@@ -100,4 +100,5 @@ a:hover {
   padding: 5px 25px;
   border-radius: 10px;
   background-color: rgba(238, 238, 255, 0.5);
+
 }
